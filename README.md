@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
+      <img src="https://github.com/Saurabhsing21/Yoom/blob/main/brandbird.png" alt="Project Banner">
     </a>
   
   <br />
